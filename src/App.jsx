@@ -4,7 +4,7 @@ export default function App() {
   return (
     <nav className="bg-black text-white px-6 py-4 flex justify-between items-center">
       {/* Logo / Brand Name */}
-      <h1 className="text-xl font-bold">MyWebsite</h1>
+      <h1 className="text-xl font-bold">Aayush</h1>
 
       {/* Navigation Links */}
       <ul className="flex space-x-6">
